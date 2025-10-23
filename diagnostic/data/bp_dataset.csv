@@ -1,0 +1,100 @@
+systolic,diastolic,label
+100,62,Normal
+102,64,Normal
+104,66,Normal
+106,68,Normal
+108,70,Normal
+110,72,Normal
+112,74,Normal
+114,76,Normal
+116,78,Normal
+118,65,Normal
+101,63,Normal
+103,65,Normal
+105,67,Normal
+107,69,Normal
+109,71,Normal
+111,73,Normal
+113,75,Normal
+115,77,Normal
+117,74,Normal
+118,72,Normal
+121,62,Élevée
+122,64,Élevée
+123,66,Élevée
+124,68,Élevée
+125,70,Élevée
+126,72,Élevée
+127,74,Élevée
+128,76,Élevée
+129,78,Élevée
+122,60,Élevée
+121,65,Élevée
+123,67,Élevée
+125,69,Élevée
+127,71,Élevée
+128,73,Élevée
+129,75,Élevée
+124,77,Élevée
+126,76,Élevée
+125,74,Élevée
+130,80,Hypertension Stade 1
+131,81,Hypertension Stade 1
+132,82,Hypertension Stade 1
+133,83,Hypertension Stade 1
+134,84,Hypertension Stade 1
+135,85,Hypertension Stade 1
+136,86,Hypertension Stade 1
+137,87,Hypertension Stade 1
+138,88,Hypertension Stade 1
+139,89,Hypertension Stade 1
+130,85,Hypertension Stade 1
+131,86,Hypertension Stade 1
+132,87,Hypertension Stade 1
+133,88,Hypertension Stade 1
+134,89,Hypertension Stade 1
+135,84,Hypertension Stade 1
+136,83,Hypertension Stade 1
+137,82,Hypertension Stade 1
+138,81,Hypertension Stade 1
+139,80,Hypertension Stade 1
+140,90,Hypertension Stade 2
+145,92,Hypertension Stade 2
+150,95,Hypertension Stade 2
+155,98,Hypertension Stade 2
+160,100,Hypertension Stade 2
+165,102,Hypertension Stade 2
+170,105,Hypertension Stade 2
+175,108,Hypertension Stade 2
+150,100,Hypertension Stade 2
+160,110,Hypertension Stade 2
+142,92,Hypertension Stade 2
+147,94,Hypertension Stade 2
+152,96,Hypertension Stade 2
+157,99,Hypertension Stade 2
+162,101,Hypertension Stade 2
+167,103,Hypertension Stade 2
+172,106,Hypertension Stade 2
+145,97,Hypertension Stade 2
+155,104,Hypertension Stade 2
+165,109,Hypertension Stade 2
+180,120,Crise hypertensive
+185,122,Crise hypertensive
+190,124,Crise hypertensive
+195,126,Crise hypertensive
+200,128,Crise hypertensive
+205,129,Crise hypertensive
+210,130,Crise hypertensive
+182,121,Crise hypertensive
+188,123,Crise hypertensive
+196,125,Crise hypertensive
+202,127,Crise hypertensive
+207,129,Crise hypertensive
+198,123,Crise hypertensive
+192,122,Crise hypertensive
+186,121,Crise hypertensive
+199,126,Crise hypertensive
+203,128,Crise hypertensive
+206,130,Crise hypertensive
+181,120,Crise hypertensive
+209,130,Crise hypertensive
